@@ -65,13 +65,13 @@ a {
 
 .logo_div {
     width: 100px;
-    margin-left: 100px;
+    margin-left: 90px;
     margin-top: 10px;
 }
 
 .menu_div ul {
     margin-right: 150px;
-    line-height: 73px;
+    line-height: 58px;
 }
 
 .menu_div ul li {
@@ -101,12 +101,12 @@ a {
 .menu_div ul li ul {
     line-height: 44px !important;
     position: absolute;
-    top: 100%;
+    top: 105%;
     left: 0;
     width: 250px;
     visibility: hidden;
     opacity: 0;
-    transition: top 0.5s;
+    transition: 0.5s;
 }
 
 .menu_div ul li ul li {
@@ -117,7 +117,7 @@ a {
     display: block;
     background-color: #000000;
     text-align: left;
-    transition: top 0.5s;
+    transition: 0.5s;
 }
 
 .menu_div ul li ul li:hover a {
@@ -141,15 +141,14 @@ a {
 }
 
 .banner_text {
-    text-align: left;
-    margin-left: 80px;
+    margin-left: 110px;
 }
 
 .banner_text h1 {
     font-size: 56px;
     font-weight: 800;
     margin: 6px 0px;
-    color: rgba(0, 0, 0, 0.788);
+    color: rgba(0, 0, 0, 0.836);
 }
 
 .banner_text h3 {
@@ -185,6 +184,7 @@ a.btn1 {
     font-size: 18px;
     font-weight: 600;
     display: inline-block;
+    margin-right: 15px;
 }
 
 a.btn1:hover {
@@ -418,7 +418,7 @@ a.btn1:hover {
     background-color: #fff;
     position: relative;
     left: 542px;
-    top: -2px;
+    top: 24px;
     margin-bottom: 16px;
 }
 
@@ -459,7 +459,7 @@ a.btn1:hover {
 }
 
 .img1 a i:hover {
-    color: #607080;
+    color: #5f6864;
 }
 
 
